@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="value_startapp">com.startup</string>
+    <string name="value_start_modules">com.start.modules</string>
+    <string name="value_initialization">com.initialization</string>
+</resources>
